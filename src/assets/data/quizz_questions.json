@@ -46,6 +46,14 @@
         {"id": 1, "name":"O Terrivel", "alias":"A"},
         {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
       ]
+    },
+    {
+      "id":6,
+      "question": "Seu amigo se mete em uma furada, o que você faz?",
+      "options":[
+        {"id": 1, "name":"Dou Risadas", "alias":"A"},
+        {"id": 2, "name":"Eu dou risadas enquanto o ajudo", "alias":"B"}
+      ]
     }
   ],
   "results":{

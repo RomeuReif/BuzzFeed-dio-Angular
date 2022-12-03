@@ -66,6 +66,7 @@
 }
 
 .quizz-results{
+    box-shadow:1px 4px 7px 0px #4224d9;
     width: 100%;
     height: 350px;
     background-color: #210239;
